@@ -11,7 +11,7 @@ public class MeuPrimeiroGit {
      */
     public static void main(String[] args) {
         System.out.println("Ola Git!");
-        System.out.println("Alterando o codigo");
+        System.out.println("Modifiquei isso aqui");
     }
     
 }
